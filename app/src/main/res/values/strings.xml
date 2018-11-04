@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">vectordrawableanimation2</string>
+    <string name="rectPath">M8,5 V19 L16,19 L16,12 L16,5</string>
+    <string name="trianglePath">M8,5 V19 L13.5,15.5 L19,12 L13.5,8.5</string>
+</resources>
